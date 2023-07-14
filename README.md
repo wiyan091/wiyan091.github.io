@@ -1,2 +1,2 @@
 # wiyan091.github.io
-Wibsiteku
+Websiteku
